@@ -30,9 +30,6 @@ This is a RESTful API for managing Products and Categories. The API allows for t
 - **Versioning**
   - API version: `0.0.1-SNAPSHOT`
 
-- **Plus Value**
-  - Docker support: Run the application in a Docker environment.
-  - API Documentation: Automatically generate API documentation using Swagger.
 
 ## API Endpoints
 
